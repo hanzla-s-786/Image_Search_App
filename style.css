@@ -41,7 +41,7 @@ form {
 }
 #search-button {
   padding: 10px 20px;
-  background-color: #138065;
+  background-color: black;
   color: white;
   border: none;
   font-size: 18px;
@@ -84,7 +84,7 @@ form {
   text-transform: capitalize;
 }
 #show-more-button {
-  background-color: #008cba;
+  background-color: black;
   font-size: 18px;
   border: none;
   color: #fff;
